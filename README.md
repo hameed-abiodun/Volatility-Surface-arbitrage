@@ -69,4 +69,4 @@ This project highlights practical and industry-relevant skills in quantitative a
 ##  Author
 
 * **Hameed Jimoh**
-* [GitHub Profile](](https://github.com/hameed-abiodun/))
+* [GitHub Profile]((https://github.com/hameed-abiodun/))
