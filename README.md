@@ -51,7 +51,7 @@ This project highlights practical and industry-relevant skills in quantitative a
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/hameed-abiodun/Volatility-Surface-arbitrage>
    ```
 
 2. Install the required dependencies:
