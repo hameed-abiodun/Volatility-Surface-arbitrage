@@ -62,7 +62,7 @@ This project highlights practical and industry-relevant skills in quantitative a
 
 ### Usage
 
-* Open and execute the provided Jupyter notebook (`Volatility-Surface-Arbitrage.ipynb`) step-by-step to replicate the analysis and visualize results.
+* Open and execute the provided Jupyter notebook (`Vol_Surface_Arbitrage.ipynb`) step-by-step to replicate the analysis and visualize results.
 
 ---
 
